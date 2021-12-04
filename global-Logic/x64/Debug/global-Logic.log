@@ -1,0 +1,4 @@
+﻿  global-Logic.cpp
+C:\Users\34933\Desktop\学习\CSCI-113 labs\global-Logic\global-Logic.cpp(92,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\34933\Desktop\学习\CSCI-113 labs\global-Logic\global-Logic.cpp(98,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  global-Logic.vcxproj -> C:\Users\34933\Desktop\学习\CSCI-113 labs\global-Logic\x64\Debug\global-Logic.exe

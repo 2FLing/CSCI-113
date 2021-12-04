@@ -1,0 +1,6 @@
+﻿  global-Logic.cpp
+C:\Users\34933\Desktop\CSCI-113 labs\global-Logic\global-Logic.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\34933\Desktop\CSCI-113 labs\global-Logic\global-Logic.cpp(98,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\34933\Desktop\CSCI-113 labs\global-Logic\global-Logic.cpp(243,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\34933\Desktop\CSCI-113 labs\global-Logic\global-Logic.cpp(251,20): warning C4018: '<': signed/unsigned mismatch
+  global-Logic.vcxproj -> C:\Users\34933\Desktop\CSCI-113 labs\global-Logic\Debug\global-Logic.exe
